@@ -1,3 +1,1 @@
-![Captura de Tela 2023-12-08 às 13 09 46](https://github.com/rafaeldeghi/image/assets/52978572/9e4f7656-3be3-4b8f-a09a-3dea4609cb99)
-
-![Captura de Tela 2023-12-08 às 14 55 42](https://github.com/rafaeldeghi/image/assets/52978572/03bc59bc-305b-4b78-8b93-fc53be888412)
+<img width="323" height="149" alt="Imagem1" src="https://github.com/user-attachments/assets/0fe73e68-82c7-40d3-8542-8cd67f4ff169" />
