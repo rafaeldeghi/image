@@ -13,6 +13,7 @@
 <img width="451" height="136" alt="Imagem3" src="https://github.com/user-attachments/assets/16c72582-7264-4ec6-92a4-ce545d10516f" />
 <img width="1366" height="628" alt="imagem (3)" src="https://github.com/user-attachments/assets/233f3363-11cb-490c-9707-5766f71f0bf5" />
 <img width="451" height="191" alt="Imagem0" src="https://github.com/user-attachments/assets/a1f0b437-db7b-4776-959e-66f0848bd117" />
+
 <img width="322" height="414" alt="Imagem15" src="https://github.com/user-attachments/assets/d1c68152-8ead-4283-b90c-da2d9b28b0a5" />
 <img width="358" height="343" alt="Imagem14" src="https://github.com/user-attachments/assets/aba4f5de-4907-4f67-80cf-a17b127b4a8a" />
 <img width="338" height="245" alt="Imagem17" src="https://github.com/user-attachments/assets/48586128-13f7-4aa7-ba94-6628dfafaa80" />
@@ -31,3 +32,6 @@
 <img width="1138" height="594" alt="upload" src="https://github.com/user-attachments/assets/2ad00f8b-f4e7-44c9-8aad-a1d5ac89d6dd" />
 <img width="1127" height="592" alt="listar" src="https://github.com/user-attachments/assets/a0864df4-a022-495e-9712-f72595270a40" />
 <img width="1122" height="591" alt="deleto" src="https://github.com/user-attachments/assets/4865510a-2c78-46ca-8373-955612c95f6d" />
+
+<img width="1143" height="532" alt="payables" src="https://github.com/user-attachments/assets/983b3e16-1000-4e33-ab25-2597cf7db6fc" />
+<img width="1136" height="529" alt="payablesResponse" src="https://github.com/user-attachments/assets/489ad70a-05c7-4984-b81c-705a013d85ad" />
