@@ -21,9 +21,13 @@
 
 
 <img width="1364" height="634" alt="ZMKYSPT0001" src="https://github.com/user-attachments/assets/a49ec526-fa2f-4525-8923-e1f17dcee31b" />
+
 <img width="861" height="573" alt="ZMKYSPT0005" src="https://github.com/user-attachments/assets/9488b6d2-9a0a-4212-8757-66515ffc6d16" />
 <img width="855" height="551" alt="ZMKYSP_MONITOR" src="https://github.com/user-attachments/assets/a8eb0d7b-1d8b-4dad-8311-5abf0bf04921" />
 <img width="950" height="304" alt="ZMKYSPT0003" src="https://github.com/user-attachments/assets/65cbd438-9a7b-4a03-a26f-a82496f3e963" />
 <img width="916" height="457" alt="ZMKYSPT0004" src="https://github.com/user-attachments/assets/86e04545-4644-4329-871d-36824e388608" />
 
 <img width="1139" height="593" alt="token" src="https://github.com/user-attachments/assets/7f83ae47-7c87-4b24-b709-b985bf087da0" />
+<img width="1138" height="594" alt="upload" src="https://github.com/user-attachments/assets/2ad00f8b-f4e7-44c9-8aad-a1d5ac89d6dd" />
+<img width="1127" height="592" alt="listar" src="https://github.com/user-attachments/assets/a0864df4-a022-495e-9712-f72595270a40" />
+<img width="1122" height="591" alt="deleto" src="https://github.com/user-attachments/assets/4865510a-2c78-46ca-8373-955612c95f6d" />
