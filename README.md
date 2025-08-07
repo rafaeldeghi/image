@@ -17,3 +17,11 @@
 <img width="358" height="343" alt="Imagem14" src="https://github.com/user-attachments/assets/aba4f5de-4907-4f67-80cf-a17b127b4a8a" />
 <img width="338" height="245" alt="Imagem17" src="https://github.com/user-attachments/assets/48586128-13f7-4aa7-ba94-6628dfafaa80" />
 <img width="338" height="245" alt="Imagem16" src="https://github.com/user-attachments/assets/dc422b97-c960-4455-a8cd-691b3b8af3f3" />
+
+
+
+<img width="1364" height="634" alt="ZMKYSPT0001" src="https://github.com/user-attachments/assets/a49ec526-fa2f-4525-8923-e1f17dcee31b" />
+<img width="861" height="573" alt="ZMKYSPT0005" src="https://github.com/user-attachments/assets/9488b6d2-9a0a-4212-8757-66515ffc6d16" />
+<img width="855" height="551" alt="ZMKYSP_MONITOR" src="https://github.com/user-attachments/assets/a8eb0d7b-1d8b-4dad-8311-5abf0bf04921" />
+<img width="950" height="304" alt="ZMKYSPT0003" src="https://github.com/user-attachments/assets/65cbd438-9a7b-4a03-a26f-a82496f3e963" />
+<img width="916" height="457" alt="ZMKYSPT0004" src="https://github.com/user-attachments/assets/86e04545-4644-4329-871d-36824e388608" />
