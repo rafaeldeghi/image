@@ -37,5 +37,9 @@
 <img width="1136" height="529" alt="payablesResponse" src="https://github.com/user-attachments/assets/489ad70a-05c7-4984-b81c-705a013d85ad" />
 <img width="451" height="539" alt="pi1" src="https://github.com/user-attachments/assets/dd6fea22-0595-4e83-b7bc-6b0a9060a293" />
 <img width="402" height="333" alt="pi2" src="https://github.com/user-attachments/assets/cf944c36-99dc-4d73-9e66-e8cacadafb8e" />
+<img width="1423" height="479" alt="payables-response" src="https://github.com/user-attachments/assets/d0aa0c48-26c3-43e1-9966-7a5636104f2b" />
+<img width="1427" height="474" alt="payablesPI" src="https://github.com/user-attachments/assets/4f66bce5-ee42-487f-8e3f-2a0e07d8967e" />
+
+
 
 
